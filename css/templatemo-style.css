@@ -38,6 +38,13 @@ h1 {
   font-size: 4rem;
 }
 
+textarea{
+    background-color: transparent;
+    color: #ffffff;
+    font-size: 4rem;
+    border: none;
+}
+
 p {
   color: #ffffff;
 }
