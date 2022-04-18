@@ -36,12 +36,6 @@ h1 {
   font-size: 4rem;
 }
 
-.special{
-  display:flex;
-  max-height: 100rem;
-  min-height: auto;
-}
-
 p {
   color: #ffffff;
 }
