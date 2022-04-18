@@ -134,12 +134,12 @@ particlesJS(
 
 const typed = new Typed(".typed", {
   strings: [
-    "Hi there!",
-    "Welcome!",
-    "How are you?",
-    "How is the family?",
+    // "Hi there!",
+    // "Welcome!",
+    // "How are you?",
+    // "How is the family?",
     "You can contact me if you need any help",
-    "Take care!",
+    // "Take care!",
   ],
 
   typeSpeed: 75, // Velocidad en mlisegundos para poner una letra,
