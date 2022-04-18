@@ -10,8 +10,6 @@ body {
   font-family: "Ubuntu Mono", monospace;
   font-size: 24px;
   font-weight: 300;
-  overflow-x: hidden;
-  overflow-y: hidden;
 }
 
 a,
